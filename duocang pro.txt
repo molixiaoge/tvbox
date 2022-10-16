@@ -1,4 +1,5 @@
-{ "storeHouse": [ 
+{
+"storeHouse": [
 
 { "sourceName": "精品①号", "sourceUrl": "https://raw.iqiq.io/leevi0709/apps/main/1" }, 
 { "sourceName": "精品②号", "sourceUrl": "https://raw.iqiq.io/leevi0709/apps/main/2" }, 
@@ -44,5 +45,17 @@
 { "sourceName": "nxog①⑥号", "sourceUrl": "https://box.nxog.top/16" },
 { "sourceName": "nxog①⑦号", "sourceUrl": "https://box.nxog.top/17" },
 { "sourceName": "nxog①⑧号", "sourceUrl": "https://box.nxog.top/18" },
-{ "sourceName": "nxog①⑨号", "sourceUrl": "https://box.nxog.top/19" }, ] }
+{ "sourceName": "nxog①⑨号", "sourceUrl": "https://box.nxog.top/19" }, 
+{"sourceName":"baip①号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/1"},
+{"sourceName":"baip②号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/2"},
+{"sourceName":"baip③号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/3"},
+{"sourceName":"baip④号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/4"},
+{"sourceName":"baip⑤号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/5"},
+{"sourceName":"baip⑥号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/6"},
+{"sourceName":"baip⑦号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/7"},
+{"sourceName":"baip⑧号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/8"},
+{"sourceName":"baip⑨号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/9"},
+{"sourceName":"baip⑩号","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/10"},
+{"sourceName":"baip①①号","sourceUrl":"https://agit.ai/xx03253/apk_update/raw/branch/main/tv/update_yuan"}
 
+] }
